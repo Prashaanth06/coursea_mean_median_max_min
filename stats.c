@@ -234,20 +234,8 @@ printf("\n");
 
 void main() {
 
-/*printf("\nMean is printed\n");
-find_mean();
-
-printf("\nMedian is printed\n");
-find_median();*/
-
 printf("\nArray entries are printed\n");
 print_array();
-
-/*printf("\nMinimum:\n");
-find_minimum();
-
-printf("\nMaximum:\n");
-find_maximum();*/
 
 printf("\nSorting the array\n");
 sort_array();
